@@ -1,0 +1,11 @@
+kubernetes,kubernetes/kubernetes,Apache License 2.0
+elasticsearch,elastic/elasticsearch,Other,https://github.com/elastic/elasticsearch/blob/main/LICENSE.txt
+fluentd,fluent/fluentd,Apache License 2.0
+logstash,elastic/logstash,Other,https://github.com/elastic/logstash/blob/main/LICENSE.txt
+grafana,grafana/grafana,GNU Affero General Public License v3.0
+prometheus,prometheus/prometheus,Apache License 2.0
+terraform,hashicorp/terraform,Other,https://github.com/hashicorp/terraform/blob/main/LICENSE
+vault,hashicorp/vault,Other,https://github.com/hashicorp/vault/blob/main/LICENSE
+istio,istio/istio,Apache License 2.0
+kiali,kiali/kiali,Apache License 2.0
+k3s,k3s-io/k3s,Apache License 2.0
